@@ -1,3 +1,3 @@
 <ol>
-  <li>  </li>
+  <li>Luis Angel Nuñez Soto -  <b>Scrum Master</b></li>
 </ol>

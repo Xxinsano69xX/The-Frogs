@@ -1,0 +1,8 @@
+1.- ¿Qué fue desde la última reunión donde hubo show?
+Estábamos organizándonos para terminar de ver cómo podíamos agregar un menú de música que no consuma tanta ram estando dentro del juego, se creo la lluvia de ideas
+
+2.- ¿En qué nos estamos tardando desde ahora hasta la próxima junta?
+Optimizar una estrategia para el rendimiento dentro de la página y así consumir menos espacio y memoria,se selecciona el tema: fusion de juegos y aplicaciones 
+
+3.- ¿Qué problemas o pendientes tengo?
+Problemas de de horario entre los integrantes del equipo.

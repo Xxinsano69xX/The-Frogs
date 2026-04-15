@@ -1,0 +1,12 @@
+FUNCIONES-ESPECIFICACIONES DE COMO FUNCIONA
+El programa es sobre pedidos de comida.
+Que se constituye mediante:
+-inicio de sesión
+-registrarse
+-botón de ayuda
+-botón para ver el menu de comida para realizar el pedido
+-botón para visualizar la hora que se realizara el pedido
+-Area de texto para registrar tu dirección al necesitar pedirlo a domicilio
+-Botón para ver el area del negocio
+Para realizar el inicio de sesión, el registro, los comentarios dejados y el 
+google maps se necesita una base de datos que se piensa realizar en localhost 
